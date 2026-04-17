@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data (too large for GitHub)
+*.csv
+*.tsv
+*.parquet
+
+# Model weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+saved_model/
+model_weights/
+
+# System
+.DS_Store
+.idea/
