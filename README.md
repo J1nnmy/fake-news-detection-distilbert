@@ -2,7 +2,7 @@
 
 **A complete NLP pipeline for binary fake news classification** — featuring SHAP-based data leakage detection, regex cleaning, and cross-dataset generalization validation.
 
-Built for IS6423 (Machine Learning for Business) at City University of Hong Kong.
+Built for IS6423 at City University of Hong Kong.
 
 ---
 
